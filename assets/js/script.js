@@ -90,6 +90,7 @@ function renderTaskList() {
 function handleAddTask(event){
     event.preventDefault();
 
+    // Getting the task data
     const taskTitle = $('#task-title').val().trim();
     const taskDescription = $('#task-description').val();
     const taskDate = $('#task-due-date').val();
