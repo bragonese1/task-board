@@ -25,6 +25,8 @@ There is also a color oriented feature that is as follows: Red - Overdue, Yellow
 
 
 ![image-of-task-board](./assets/images/task-board.png)
+https://github.com/bragonese1/task-board/assets/82071172/ac747c4e-3947-41e2-afb3-6d2774a078ce
+
 
 ## Acknowledgements
 
