@@ -23,7 +23,7 @@ There will be an 'Exit' and 'Save' button in the bottom corner. If the user want
 There is a delete button at the bottom of each task creation to allow the user to delete the task.
 There is also a color oriented feature that is as follows: Red - Overdue, Yellow - Due today, and Green - Due in the future.
 
-<video src="./assets/images/Task Board.mp4" controls="controls" style="max-width;"></video>
+<video src="./assets/images/Task-Board.mp4" width="max-width"></video>
 
 ## Acknowledgements
 
@@ -34,6 +34,7 @@ There is also a color oriented feature that is as follows: Red - Overdue, Yellow
 ```
 
 ## Credits
+
 ```md
 - https://www.w3schools.com/
 - https://www.youtube.com/watch?v=jp_p6wCkc9I
